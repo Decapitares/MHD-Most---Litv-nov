@@ -1,7 +1,7 @@
 # Interaktivní jízdní řád pro MHD Most - Litvínov
 ---
 
-Aplikace interaktivně ukazuje nejbližší čas příjezdu zvolené linky
+Aplikace interaktivně ukazuje nejbližší čas příjezdu zvolené linky. Časy a odpočet se obnovuje a nastavuje sám podle času počítače.
 ![image](https://github.com/user-attachments/assets/89fac4a9-5dd7-4d41-b20a-d6a0d41ae68c)
 
 Můžete si linky přidat samy.
