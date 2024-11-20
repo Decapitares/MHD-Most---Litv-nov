@@ -17,4 +17,6 @@ Můžete si linky přidat samy.
 
   ## Aplikace je zcela zdarma
 
+  ### Pokud vytvoříte vlastní linku a nebo doplníte/aktualizujete nějakou odemne tak mi ji můžete poslat a já ji sem přidám.
+
 
