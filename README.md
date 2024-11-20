@@ -14,9 +14,10 @@ Můžete si linky přidat samy.
   ![image](https://github.com/user-attachments/assets/d4abb2f8-20e8-47bb-942e-9fb9fcc129c2)
 
 
-
-  ## Aplikace je zcela zdarma
-
-  ### Pokud vytvoříte vlastní linku a nebo doplníte/aktualizujete nějakou odemne tak mi ji můžete poslat a já ji sem přidám.
-
+## Aplikace je zcela zdarma
+---
+### Pokud vytvoříte vlastní linku a nebo doplníte/aktualizujete nějakou odemne tak mi ji můžete poslat a já ji sem přidám.
+---
+Aplikace je prozatím dostupná pouze pro PC s Windows, na Linuxu nebo MacOS to nebylo testováno.
+Do budoucna je v plánu aplikaci převést na webovou aby bylo možné k jízdním řádům přistupovat odkudkoli.
 
